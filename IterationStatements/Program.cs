@@ -58,7 +58,7 @@ namespace IterationStatements
             {
                 // Write to the console "numbers" at index i
 
-                Console.WriteLine(i);
+                Console.WriteLine(numbers[i]);
 
             }
             //Console.WriteLine(numbers.Count);
